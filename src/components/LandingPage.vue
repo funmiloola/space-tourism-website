@@ -102,7 +102,6 @@ ul li{
     font-weight: 400;
     padding-top:39px;
     padding-bottom: 38px;
-    letter-spacing: 2.7px;
 }
 ul li span{
 color: #FFF;
@@ -110,7 +109,6 @@ font-family: Barlow Condensed;
 font-size: 16px;
 font-weight: 700;
 padding-right:11px;
-letter-spacing: 2.7px;
 }
 @media (min-width:600px) and (max-width:1024px){
     ul li span{
